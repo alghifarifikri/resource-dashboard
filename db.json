@@ -1,0 +1,206 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "firstname": "Alghifari",
+      "lastname": "Fikri",
+      "username": "noobmaster69",
+      "email": "alghi@gmail.com",
+      "password": "Password*",
+      "confirmPassword": "Password*"
+    },
+    {
+      "email": "na@m.com",
+      "password": "Narut*12",
+      "firstname": "Nash",
+      "lastname": "Jr.",
+      "username": "najr",
+      "confirmPassword": "Narut*12",
+      "id": "fts9g26"
+    },
+    {
+      "email": "gm2@gm.com",
+      "password": "Narut*123",
+      "firstname": "Master",
+      "lastname": "Grand",
+      "username": "gm",
+      "confirmPassword": "Narut*123",
+      "id": "chgpe8z"
+    },
+    {
+      "firstname": "Vuetamin",
+      "lastname": "React",
+      "username": "framework",
+      "email": "js@gm.com",
+      "password": "Bobob*",
+      "confirmPassword": "Bobob*",
+      "id": "1j9nytw"
+    },
+    {
+      "firstname": "Jonathan",
+      "lastname": "Addrian",
+      "username": "ja",
+      "email": "hj@gm.com",
+      "password": "Narut*123",
+      "confirmPassword": "Narut*123",
+      "id": "30wu8gf"
+    },
+    {
+      "email": "userdemo@gmail.com",
+      "password": "1234",
+      "firstname": "Sasuke",
+      "lastname": "Uchiha",
+      "username": "uchiha12",
+      "confirmPassword": "1234",
+      "id": "X3a1nHd"
+    },
+    {
+      "email": "uzu@gmail.com",
+      "password": "1234",
+      "firstname": "Naruto",
+      "lastname": "Uzumaki",
+      "username": "uzu123",
+      "confirmPassword": "1234",
+      "id": "FwDUVSG"
+    },
+    {
+      "firstname": "Fikri",
+      "lastname": "Alghifari",
+      "username": "Alghifari ",
+      "email": "al@m.vom",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": "qqpgZWC"
+    }
+  ],
+  "supplier": [
+    {
+      "id": "1",
+      "name": "Andrew M",
+      "email": "andrew@gmail.com",
+      "address": "Jakarta",
+      "company": "PT. Angin Ribut"
+    },
+    {
+      "id": "2",
+      "name": "Johnson B",
+      "email": "mas@gmail.com",
+      "address": "Depok",
+      "company": "PT. Angin Puting Beliung"
+    },
+    {
+      "name": "Tepung Segitiga",
+      "email": "tepung@gmail.com",
+      "address": "Bandung",
+      "company": "PT. Semen Segitiga",
+      "id": "Mngzw9h"
+    },
+    {
+      "name": "Alghifari",
+      "email": "Alghi@m.com",
+      "address": "depok",
+      "company": "PT. UUU",
+      "id": "altfvLS"
+    },
+    {
+      "name": "Victor",
+      "email": "v@gmail.com",
+      "address": "Cirebon",
+      "company": "PT. Sukses Berkah",
+      "id": "0qOnEvr"
+    },
+    {
+      "name": "Nash",
+      "email": "ff@vm.com",
+      "address": "Bekasi",
+      "company": "PT Mustofa",
+      "id": "bngA30W"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "name": "Alghi",
+      "email": "alghi@gmail.com",
+      "address": "Jakarta",
+      "item": "Playstation 5",
+      "status": "CANCELLED",
+      "price": 2000000,
+      "qty": 5,
+      "total": 10000000
+    },
+    {
+      "name": "Jono",
+      "email": "jono@gmail.com",
+      "address": "Bandung",
+      "item": "Nintendo",
+      "status": "DELIVERED",
+      "price": 3000000,
+      "qty": 2,
+      "total": 6000000,
+      "id": "Mngzw9h"
+    },
+    {
+      "name": "Keyla",
+      "email": "K@gmail.com",
+      "address": "Bandung",
+      "item": "Tas",
+      "status": "DELIVERED",
+      "price": 300000,
+      "qty": 2,
+      "total": 600000,
+      "id": "Mngew9h"
+    },
+    {
+      "name": "Beni",
+      "email": "b@gmail.com",
+      "address": "Tangerang",
+      "item": "Nike AF1",
+      "status": "SHIPPING",
+      "price": 31000000,
+      "qty": 2,
+      "total": 62000000,
+      "id": "Mwgzw9h"
+    },
+    {
+      "name": "Yulia R",
+      "email": "as@gmail.com",
+      "address": "Semarang",
+      "item": "Make Up",
+      "status": "CANCELLED",
+      "price": 300000,
+      "qty": 2,
+      "total": 600000,
+      "id": "Mngzw9zzz"
+    },
+    {
+      "name": "Gilang",
+      "email": "g@gmail.com",
+      "address": "Bandung",
+      "item": "Kaos",
+      "status": "SHIPPING",
+      "price": 150000,
+      "qty": 2,
+      "total": 300000,
+      "id": "ZZgzw9h"
+    },
+    {
+      "name": "Angga",
+      "email": "angga@gmail.com",
+      "address": "Tasikmalaya",
+      "item": "PC",
+      "status": "DELIVERED",
+      "price": 3000000,
+      "qty": 2,
+      "total": 6000000,
+      "id": "Mngz29h"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin"
+    }
+  ]
+}
